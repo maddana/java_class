@@ -12,4 +12,4 @@ total characters in name.
 ### to get array of length --> string.length;
 #### to print particular index chararter in a string --> string.charAt(0) or name.charAt(1);
 
-##q2) Create a class to 
+##q2) Create array of addition and work on that array(create more than one obj using arrays )

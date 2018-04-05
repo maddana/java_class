@@ -16,6 +16,7 @@ public class Name10 {
 		for(int i=0;i<10;i++){
 			names[i]=x.nextLine();		
 			
+			
 		}
 		
 		for(int i=0;i<10;i++){

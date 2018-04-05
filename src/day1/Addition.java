@@ -18,7 +18,7 @@ public class Addition {
 	}
 	
 	void display(){
-		System.out.print("Num1="+num1+"NUM2="+num2+"NUm3="+num3);
+		System.out.println("Num1="+num1+"NUM2="+num2+"NUm3="+num3);
 	}
 
 }

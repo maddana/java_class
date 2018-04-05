@@ -40,3 +40,5 @@ Display without using control structure
 ## q8)WAP to open a image and convet it into black and white. 
 jx
 ### To be done by tomorrow 
+
+

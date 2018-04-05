@@ -20,4 +20,4 @@ total characters in name.
 ## q4) Create a Employee class , which has got name and age 
 --> Method to set the data  and display the data.
 --> Files(Employee and MainForEmployee)
---> Again make for 3empliyees( Employee and EmployeeOb)
+--> Again make for 3empliyees( Employee.java and EmployeeOb.java)

@@ -12,7 +12,7 @@ total characters in name.
 ### to get array of length --> string.length;
 #### to print particular index chararter in a string --> string.charAt(0) or name.charAt(1);
 
-##q3) -> Addition in more modular form ( FIles--> Addition.java & main class( MainForAdditon.java)
+## q3) -> Addition in more modular form ( FIles--> Addition.java & main class( MainForAdditon.java)
 
-##q2) Create array of addition and work on that array(create more than one obj using arrays )
+## q2) Create array of addition and work on that array(create more than one obj using arrays )
 --> FILES--> Addition.java & main class( Arrayobj.java)

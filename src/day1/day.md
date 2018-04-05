@@ -3,7 +3,7 @@ Day1
 got to run -> run configuration -> arguments (enter)-> then apply->ok ->u will get output
 
 ##q1)Write a java program to accept a name and display the name
-Disply all the name.
+Display all the name.
 first character of name.
 total characters in name.
 

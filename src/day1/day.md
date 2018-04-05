@@ -35,7 +35,7 @@ Also write test cases for this using Junit
 ## q7) Accept name of the day and display :
 --> owner of the day
 --> Color of the day
--->Stone of the day
+-->Stone of the day.
 Display without using control structure
 ## q8)WAP to open a image and convet it into black and white. 
 jx

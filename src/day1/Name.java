@@ -19,7 +19,7 @@ public class Name {
 		System.out.println(name.length());
 		
 		// TODO Auto-generated method stub
-		x.close();
+		x.close(); //to close the scanner to prevent memory leak
 
 	}
 	

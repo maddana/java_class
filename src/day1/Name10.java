@@ -12,7 +12,7 @@ public class Name10 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner x=new Scanner(System.in);
-		String [] names =new String[10];
+		String [] names =new String[3];
 		for(int i=0;i<10;i++){
 			names[i]=x.nextLine();		
 			

@@ -12,3 +12,4 @@ total characters in name.
 ### to get array of length --> string.length;
 #### to print particular index chararter in a string --> string.charAt(0) or name.charAt(1);
 
+##q2) Create a class to 

@@ -38,5 +38,5 @@ Also write test cases for this using Junit
 -->Stone of the day
 Display without using control structure
 ## q8)WAP to open a image and convet it into black and white. 
-
+j
 ### To be done by tomorrow 

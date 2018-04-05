@@ -21,3 +21,20 @@ total characters in name.
 --> Method to set the data  and display the data.
 --> Files(Employee and MainForEmployee)
 --> Again make for 3empliyees( Employee.java and EmployeeOb.java)
+
+## q5)Creating a class Number which contains one numeric value and following methods
+--i) to return even or odd
+--ii)Prime or not
+--iii)Armstrong or not
+--iv)Friendly or not , 6-->1,2,3 i.e 1+2+3=6
+--v)Figures to one
+Also write test cases for this using Junit
+
+## q6)a)WAP to display next Ten year when the following festival (i.e on which day) falls.
+-> Ramadan and pongal
+## q7) Accept name of the day and display :
+--> owner of the day
+--> Color of the day
+-->Stone of the day
+Display without using control structure
+## q8)WAP to open a image and convet it into black and white. 

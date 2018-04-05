@@ -8,7 +8,9 @@ public class Arrayobj{
 		ob[1]=new Addition();
 		ob[2]=new Addition();
 		Scanner sc=new Scanner(System.in);
-		ob[0].setdata(sc.nextInt(),sc.nextInt());
+	/**	
+	 * the same we will do with for loop
+	 * ob[0].setdata(sc.nextInt(),sc.nextInt());
 		ob[0].display();
 		ob[0].add();
 		ob[0].display();
@@ -20,5 +22,16 @@ public class Arrayobj{
 		ob[2].display();
 		ob[2].add();
 		ob[2].display();
+		
+		*/
+		
+		for(int i=0;i<ob.length;i++){
+			ob[i].setdata(sc.nextInt(),sc.nextInt());
+			ob[i].display();
+			ob[i].add();
+			ob[i].display();
+			System.out.println();
+			
+		}
 	}
 }

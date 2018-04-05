@@ -22,7 +22,8 @@ public class Name10 {
 			System.out.println("\n"+names[i]);
 			
 		}
-
+x.close();
 	}
+	
 
 }

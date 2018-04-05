@@ -16,3 +16,8 @@ total characters in name.
 
 ## q2) Create array of addition and work on that array(create more than one obj using arrays )
 --> FILES--> Addition.java & main class( Arrayobj.java)
+
+## q4) Create a Employee class , which has got name and age 
+--> Method to set the data  and display the data.
+--> Files(Employee and MainForEmployee)
+--> Again make for 3empliyees( Employee and EmployeeOb)
